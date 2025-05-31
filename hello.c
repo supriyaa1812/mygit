@@ -1,3 +1,4 @@
+c code 
 #include <stdio.h>
 
 #define MAX_STUDENTS 100
